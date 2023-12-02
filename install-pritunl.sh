@@ -14,9 +14,6 @@ EOF
 
 wget -qO - https://www.mongodb.org/static/pgp/server-6.0.asc | sudo apt-key add -
 
-sudo apt update
-sudo apt --assume-yes upgrade
-
 # WireGuard server support
 sudo apt -y install wireguard wireguard-tools
 
