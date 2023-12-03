@@ -1,4 +1,4 @@
-# Project Name
+# Pritunl Installation for Ubuntu 22.04
 
 ## Description
 
